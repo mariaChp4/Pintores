@@ -1,0 +1,15 @@
+{
+    "name":"sitiostatico",
+    "version":"1.0.0",
+    "description": "sitio web estatico con express",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: not test specified\" && exit 1"
+
+    },
+    "author": "Maria Fernanda Chaparro Chaparro",
+    "license": "ISC",
+    "dependencies": {
+        "express":"^4.17.1"
+    }
+}
